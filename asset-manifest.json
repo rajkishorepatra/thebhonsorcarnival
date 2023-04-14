@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thebhonsorcarnival/static/css/main.600f4bd0.css",
+    "main.js": "/thebhonsorcarnival/static/js/main.4e639b66.js",
+    "static/media/swagbabu.png": "/thebhonsorcarnival/static/media/swagbabu.032404bd84c87ab63418.png",
+    "static/media/logo.png": "/thebhonsorcarnival/static/media/logo.73d44305d842850d3f19.png",
+    "index.html": "/thebhonsorcarnival/index.html",
+    "main.600f4bd0.css.map": "/thebhonsorcarnival/static/css/main.600f4bd0.css.map",
+    "main.4e639b66.js.map": "/thebhonsorcarnival/static/js/main.4e639b66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600f4bd0.css",
+    "static/js/main.4e639b66.js"
+  ]
+}
