@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/thebhonsorcarnival/static/css/main.acc8d3f1.css",
-    "main.js": "/thebhonsorcarnival/static/js/main.bba906de.js",
-    "static/media/swagbabu.png": "/thebhonsorcarnival/static/media/swagbabu.032404bd84c87ab63418.png",
-    "static/media/logo.png": "/thebhonsorcarnival/static/media/logo.73d44305d842850d3f19.png",
+    "main.js": "/thebhonsorcarnival/static/js/main.9d556186.js",
     "index.html": "/thebhonsorcarnival/index.html",
     "main.acc8d3f1.css.map": "/thebhonsorcarnival/static/css/main.acc8d3f1.css.map",
-    "main.bba906de.js.map": "/thebhonsorcarnival/static/js/main.bba906de.js.map"
+    "main.9d556186.js.map": "/thebhonsorcarnival/static/js/main.9d556186.js.map"
   },
   "entrypoints": [
     "static/css/main.acc8d3f1.css",
-    "static/js/main.bba906de.js"
+    "static/js/main.9d556186.js"
   ]
 }
